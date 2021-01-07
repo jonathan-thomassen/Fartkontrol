@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fartkontrol", "Fartkontrol.csproj", "{D14447BA-C517-49E3-9C1C-C3AFFF4972E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestSpeedTest", "..\UnitTestSpeedTest\UnitTestSpeedTest.csproj", "{90702681-CDCD-466B-B4D9-D7560661B255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D14447BA-C517-49E3-9C1C-C3AFFF4972E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14447BA-C517-49E3-9C1C-C3AFFF4972E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14447BA-C517-49E3-9C1C-C3AFFF4972E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14447BA-C517-49E3-9C1C-C3AFFF4972E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90702681-CDCD-466B-B4D9-D7560661B255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90702681-CDCD-466B-B4D9-D7560661B255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90702681-CDCD-466B-B4D9-D7560661B255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90702681-CDCD-466B-B4D9-D7560661B255}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05F0971A-E5AD-48CA-9723-40DE7813C14F}
+	EndGlobalSection
+EndGlobal
